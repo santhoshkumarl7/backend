@@ -16,6 +16,7 @@ export default function Navbar(props) {
     </nav>
   );
 }
+
 Navbar.propTypes = {
   active: PropTypes.bool,
 }.isRequired;
