@@ -7,6 +7,7 @@ import {
   faPhone,
   faShoppingBasket,
 } from '@fortawesome/free-solid-svg-icons';
+
 import {
   faFacebookF,
   faInstagram,
