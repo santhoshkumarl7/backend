@@ -7,6 +7,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Autoplay } from 'swiper';
 import 'swiper/swiper.min.css';
 
+
 export default function Products() {
   SwiperCore.use([Autoplay]);
   return (
