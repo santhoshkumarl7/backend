@@ -9,6 +9,7 @@
   box-shadow: var(--box-shadow);
   background: #fff;
 }
+
 .blogs .box-container .box img {
   object-fit: cover;
   height: 25em;
