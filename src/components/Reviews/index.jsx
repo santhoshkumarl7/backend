@@ -7,6 +7,7 @@ import SwiperCore, { Autoplay } from 'swiper';
 import './Reviews.css';
 import 'swiper/swiper.min.css';
 
+
 export default function Reviews() {
   SwiperCore.use([Autoplay]);
   return (
