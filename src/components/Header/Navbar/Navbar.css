@@ -4,6 +4,7 @@
   font-size: 1.7rem;
   margin: 0 1rem;
 }
+
 .header .navbar.active {
   right: 2rem;
 }
