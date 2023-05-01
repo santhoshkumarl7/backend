@@ -1,4 +1,4 @@
-# A Grocery Store built with React 😋️
+application for grocery delivery
 
 
 
