@@ -4,6 +4,7 @@
   gap: 1.5rem
 }
 .categories .box{
+  
   background: #fff;
   box-shadow: var(--box-shadow);
   border-radius: 0.5rem;
