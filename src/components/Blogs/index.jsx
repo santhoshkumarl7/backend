@@ -4,6 +4,7 @@ import { faUser, faCalendar } from '@fortawesome/free-solid-svg-icons';
 
 import './Blogs.css';
 
+
 export default function Blogs() {
   return (
     <section className="blogs" id="blogs">
